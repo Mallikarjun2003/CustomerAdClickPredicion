@@ -1,6 +1,3 @@
-Here's the README file without any code:
-
----
 
 # Customer Ad Click Prediction
 
